@@ -1,0 +1,22 @@
+[
+  {
+    "id": "line-cap",
+    "label": "300-line cap maintained",
+    "description": "Each file must be under 300 lines of code"
+  },
+  {
+    "id": "plugin-first",
+    "label": "Plugin-first architecture",
+    "description": "Features built as plugins, not monolithic core"
+  },
+  {
+    "id": "cyber-safe",
+    "label": "Cyber-safe content",
+    "description": "Content must not promote harmful cybersecurity practices"
+  },
+  {
+    "id": "partner-not-replace",
+    "label": "Partner-not-replace framing",
+    "description": "AI positions as partner/amplifier, not human replacement"
+  }
+]
