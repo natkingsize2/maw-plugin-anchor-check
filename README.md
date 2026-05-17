@@ -4,6 +4,12 @@
 
 Plugin for the `maw` CLI that evaluates a decision text against loaded anchor files and produces a pass/warn/block verdict per anchor, plus an overall score.
 
+## Why
+
+Solo founders and small agent teams drift. After 60+ specs and a thousand commits, "does this still serve the mission?" gets answered by gut feel — and later by regret. anchor-check forces every spec or decision through three explicit filters (Mission, Goal, Reality) in under 100ms, returning an exit code you can wire into git hooks and pre-dispatch gates. No LLM in the loop, no latency cost, deterministic verdicts.
+
+See **[USE-CASES.md](USE-CASES.md)** for concrete workflows, real session transcripts, and the origin story.
+
 ## Quick start
 
 ```bash
